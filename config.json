@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://jiuyou.eu.org",
+  "title": "VVX",
+  "name": "X1AO",
+  "ascii": "INORI",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "294743105@qq.com",
+  "ps1_hostname": "VVX",
+  "ps1_username": "ERROR",
+  "repo": "https://jiuyou.eu.org",
+  "resume_url": "https://jiuyou.eu.org/aboutme",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://jiuyou.eu.org",
+    "patreon": "https://p.jiuyou.eu.org"
   },
   "colors": {
     "light": {
