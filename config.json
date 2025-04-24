@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://jiuyou.eu.org",
+  "title": "VVX-blog",
+  "name": "xiao",
+  "ascii": "X1AO",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "个人网盘": "https://p.jiuyou.eu.org",
+    "私域": "https://jiuyou.eu.org"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "294743105@qq.com",
+  "ps1_hostname": "xiao_111",
+  "ps1_username": "user",
+  "repo": "https://jiuyou.eu.org",
+  "resume_url": "https://jiuyou.eu.org",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "blog": "https://jiuyou.eu.org",
+    ">>>": "https://jiuyou.eu.org"
   },
   "colors": {
     "light": {
